@@ -6,3 +6,5 @@
 Robots playing Jenga
 
 <img src="https://github.com/TANGBEN7/HLJenga/blob/main/img/Melodic.JPG" alt="drawing" width="600"/>
+
+** checkout this video link https://www.bilibili.com/video/BV1654y177YU** :)
